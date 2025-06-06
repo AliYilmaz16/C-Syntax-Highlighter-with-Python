@@ -42,8 +42,9 @@ Bu proje, C programlama diline özel olarak geliştirilmiş, gerçek zamanlı ç
 - `tkinter` (Python içinde hazır gelir)
 
 ## Demo Videosu
-- https://medium.com/@ali.yilmazbgs/gerçek-zamanlı-c-sözdizimi-vurgulama-ve-yapısal-analiz-sistemi-b39999389665
+- https://www.youtube.com/watch?v=BTF3QeLcvoc
 
 ## Makale
---gelicek--
+- https://medium.com/@ali.yilmazbgs/gerçek-zamanlı-c-sözdizimi-vurgulama-ve-yapısal-analiz-sistemi-b39999389665
+
 
