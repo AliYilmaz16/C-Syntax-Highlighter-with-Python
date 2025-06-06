@@ -32,10 +32,7 @@ Bu proje, C programlama diline özel olarak geliştirilmiş, gerçek zamanlı ç
 
 | Ana Arayüz | Lexical Analiz | Parse Tree |
 |------------|----------------|-------------|
-| ![editor](screenshots/editor.png) | ![lexical](screenshots/lexical.png) | ![parse](screenshots/parse_tree.png) |
-
-> Ekran görüntüleri klasörü: `/screenshots/`
-
+| ![editor](ScreenShots/giris.png) | ![lexical](ScreenShots/tokens.png) | ![parse](ScreenShots/parsetree.png) |
 ---
 
 ## Kullanım
@@ -45,7 +42,7 @@ Bu proje, C programlama diline özel olarak geliştirilmiş, gerçek zamanlı ç
 - `tkinter` (Python içinde hazır gelir)
 
 ## Demo Videosu
---gelicek--
+- https://medium.com/@ali.yilmazbgs/gerçek-zamanlı-c-sözdizimi-vurgulama-ve-yapısal-analiz-sistemi-b39999389665
 
 ## Makale
 --gelicek--
